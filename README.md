@@ -1,7 +1,7 @@
 # 8051-Microcontroller-Based-User-Interface
 
 ## Overview
-This project implements a user interface using 8051 assembly, featuring an LCD screen and a keypad for interaction. The system is designed to handle user input efficiently while displaying necessary information on the LCD.
+This project implements a user interface using 8051 assembly, featuring an LCD screen and a keypad for interaction. The system is designed to handle user input efficiently while displaying necessary information on the LCD.  Virtual Hardware is necessary for simulation purposes on the 8051 MCU IDE only.
 
 ## Features
 - **LCD Display Interface**: Displays menu options, memory contents, and user prompts.  
@@ -22,6 +22,7 @@ This project implements a user interface using 8051 assembly, featuring an LCD s
 ## Software Requirements
 - **Simulator**: MCU 8051 IDE
 - **Programming Language**: 8051 Assembly
+- **Virtual Hardware**: 2x16 LCD, 4x4 Keypad
 
 ## Program Flow
 1. **Initialization**: Configure LCD and keypad.
